@@ -8,6 +8,8 @@
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
+  "scop":"https://hasanthetechmama.blogspot.com" 
+  "id":"https://hasanthetechmama.blogspot.com"
   "icons": [
     {
       "src": "/path/to/icon-72x72.png",
